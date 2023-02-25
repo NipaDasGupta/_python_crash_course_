@@ -1,0 +1,5 @@
+Python is a high-level, interpreted programming language.
+It is a versatile language that can be used for a wide range of applications,
+including web development, data analysis, and scientific computing.
+Python is known for its simple and easy-to-read syntax, making it a popular
+choice for beginners and experienced programmers alike.
